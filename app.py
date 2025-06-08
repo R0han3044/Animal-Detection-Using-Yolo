@@ -238,9 +238,19 @@ def video_detection_tab(predictor):
                     # Show processed video
                     if os.path.exists(output_path):
                         st.subheader("Processed Video")
+                        # Provide download link instead of direct video display
                         with open(output_path, 'rb') as video_file:
                             video_bytes = video_file.read()
-                        st.video(video_bytes)
+                        
+                        st.download_button(
+                            label="Download Processed Video",
+                            data=video_bytes,
+                            file_name="processed_video.mp4",
+                            mime="video/mp4",
+                            type="primary"
+                        )
+                        
+                        st.info("Video processing completed successfully! Click the download button above to get your processed video.")
                         
                         # Clean up
                         os.unlink(output_path)
@@ -377,7 +387,7 @@ Anchor Boxes: {MODEL_CONFIG['num_boxes']}
     if torch.cuda.is_available():
         st.write(f"**CUDA Available**: Yes")
         st.write(f"**GPU**: {torch.cuda.get_device_name(0)}")
-        st.write(f"**CUDA Version**: {torch.version.cuda}")
+        st.write(f"**CUDA Version**: {torch.version.cuda if hasattr(torch.version, 'cuda') else 'Unknown'}")
     else:
         st.write(f"**CUDA Available**: No (using CPU)")
 
