@@ -62,18 +62,15 @@ class YOLOPredictor:
     
     def _decode_predictions(self, predictions, original_size):
         """
-        Decode model predictions to bounding boxes with enhanced detection logic
+        Decode YOLO model predictions to bounding boxes
         """
         predictions = predictions.squeeze(0)
         boxes = []
         
-        # Enhanced prediction processing with better detection logic
-        confidence_threshold = max(0.3, self.conf_threshold)
-        
         for i in range(self.grid_size):
             for j in range(self.grid_size):
                 for b in range(self.num_boxes):
-                    # Extract and process predictions
+                    # Extract prediction components
                     pred_slice = predictions[i, j, b, :]
                     
                     x_offset = torch.sigmoid(pred_slice[0])
@@ -83,24 +80,17 @@ class YOLOPredictor:
                     confidence = torch.sigmoid(pred_slice[4])
                     class_probs = torch.sigmoid(pred_slice[5:])
                     
-                    # Enhanced confidence filtering
-                    if confidence.item() < confidence_threshold:
+                    # Apply confidence threshold
+                    if confidence.item() < self.conf_threshold:
                         continue
                     
-                    # Calculate coordinates with improved precision
-                    grid_x = j
-                    grid_y = i
+                    # Calculate absolute coordinates
+                    x_center = (j + x_offset.item()) / self.grid_size * original_size[0]
+                    y_center = (i + y_offset.item()) / self.grid_size * original_size[1]
                     
-                    x_center = (grid_x + x_offset.item()) / self.grid_size
-                    y_center = (grid_y + y_offset.item()) / self.grid_size
-                    
-                    # Scale to image coordinates
-                    x_center *= original_size[0]
-                    y_center *= original_size[1]
-                    
-                    # Calculate box dimensions with stability
-                    box_width = torch.clamp(torch.exp(width), 0.01, 5.0).item() * original_size[0] / self.grid_size
-                    box_height = torch.clamp(torch.exp(height), 0.01, 5.0).item() * original_size[1] / self.grid_size
+                    # Calculate box dimensions
+                    box_width = torch.exp(width).item() * original_size[0] / self.grid_size
+                    box_height = torch.exp(height).item() * original_size[1] / self.grid_size
                     
                     # Bounding box coordinates
                     x1 = max(0, x_center - box_width / 2)
@@ -108,15 +98,15 @@ class YOLOPredictor:
                     x2 = min(original_size[0], x_center + box_width / 2)
                     y2 = min(original_size[1], y_center + box_height / 2)
                     
-                    # Validate box
-                    if x2 <= x1 or y2 <= y1 or (x2 - x1) < 10 or (y2 - y1) < 10:
+                    # Validate box dimensions
+                    if x2 <= x1 or y2 <= y1:
                         continue
                     
-                    # Class prediction
+                    # Get class with highest probability
                     class_id = torch.argmax(class_probs).item()
                     class_confidence = class_probs[class_id].item()
                     
-                    # Final confidence calculation
+                    # Final confidence score
                     final_confidence = confidence.item() * class_confidence
                     
                     if final_confidence >= self.conf_threshold:
@@ -124,30 +114,6 @@ class YOLOPredictor:
                             x1, y1, x2, y2,
                             final_confidence, class_id
                         ])
-        
-        # If no detections from model, generate demonstration detections
-        if len(boxes) == 0:
-            # Generate sample detections for demonstration
-            np.random.seed(hash(str(original_size)) % 1000)
-            num_objects = np.random.randint(1, 3)
-            
-            for _ in range(num_objects):
-                x_center = np.random.uniform(0.2, 0.8) * original_size[0]
-                y_center = np.random.uniform(0.2, 0.8) * original_size[1]
-                
-                box_width = np.random.uniform(0.1, 0.25) * original_size[0]
-                box_height = np.random.uniform(0.1, 0.25) * original_size[1]
-                
-                x1 = max(0, x_center - box_width / 2)
-                y1 = max(0, y_center - box_height / 2)
-                x2 = min(original_size[0], x_center + box_width / 2)
-                y2 = min(original_size[1], y_center + box_height / 2)
-                
-                class_id = np.random.randint(0, self.num_classes)
-                confidence = np.random.uniform(0.65, 0.85)
-                
-                if confidence >= self.conf_threshold:
-                    boxes.append([x1, y1, x2, y2, confidence, class_id])
         
         return boxes
     
