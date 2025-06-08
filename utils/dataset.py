@@ -149,16 +149,16 @@ def create_dataloaders(data_dir=DATASET_CONFIG['data_dir'],
         train_dataset,
         batch_size=batch_size,
         shuffle=True,
-        num_workers=2,
-        pin_memory=True
+        num_workers=0,
+        pin_memory=False
     )
     
     val_loader = DataLoader(
         val_dataset,
         batch_size=batch_size,
         shuffle=False,
-        num_workers=2,
-        pin_memory=True
+        num_workers=0,
+        pin_memory=False
     )
     
     return train_loader, val_loader

@@ -1,0 +1,8002 @@
+[
+  {
+    "image_path": "synthetic_image_000.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          71,
+          64,
+          170,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_001.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          144,
+          41,
+          114,
+          176
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_002.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          112,
+          74,
+          116,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_003.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          78,
+          54,
+          164,
+          117
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_004.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          97,
+          29,
+          210,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_005.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          148,
+          35,
+          205,
+          149
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_006.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          135,
+          118,
+          133,
+          211
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_007.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          73,
+          128,
+          235,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_008.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          105,
+          93,
+          142,
+          187
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_009.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          43,
+          99,
+          198,
+          162
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_010.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          15,
+          118,
+          192,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_011.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          66,
+          20,
+          167,
+          125
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_012.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          37,
+          39,
+          183,
+          221
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_013.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          78,
+          109,
+          239,
+          189
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_014.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          94,
+          136,
+          114,
+          192
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_015.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          90,
+          43,
+          228,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_016.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          110,
+          18,
+          175,
+          163
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_017.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          149,
+          53,
+          140,
+          202
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_018.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          62,
+          81,
+          118,
+          204
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_019.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          145,
+          62,
+          243,
+          231
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_020.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          42,
+          26,
+          191,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_021.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          99,
+          104,
+          217,
+          219
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_022.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          104,
+          40,
+          129,
+          205
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_023.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          140,
+          99,
+          137,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_024.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          76,
+          131,
+          174,
+          188
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_025.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          126,
+          28,
+          116,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_026.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          143,
+          125,
+          238,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_027.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          108,
+          56,
+          172,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_028.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          47,
+          88,
+          213,
+          204
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_029.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          20,
+          96,
+          204,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_030.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          99,
+          103,
+          151,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_031.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          26,
+          21,
+          134,
+          125
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_032.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          104,
+          65,
+          128,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_033.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          129,
+          66,
+          231,
+          195
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_034.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          14,
+          91,
+          131,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_035.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          129,
+          40,
+          208,
+          125
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_036.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          43,
+          135,
+          163,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_037.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          62,
+          115,
+          206,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_038.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          113,
+          88,
+          245,
+          249
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_039.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          106,
+          149,
+          145,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_040.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          27,
+          54,
+          238,
+          238
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_041.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          53,
+          56,
+          192,
+          219
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_042.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          68,
+          125,
+          217,
+          176
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_043.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          49,
+          27,
+          225,
+          219
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_044.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          98,
+          135,
+          147,
+          197
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_045.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          131,
+          69,
+          152,
+          199
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_046.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          50,
+          120,
+          137,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_047.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          62,
+          100,
+          236,
+          109
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_048.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          101,
+          111,
+          173,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_049.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          55,
+          11,
+          107,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_050.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          125,
+          18,
+          106,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_051.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          124,
+          141,
+          186,
+          105
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_052.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          90,
+          107,
+          189,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_053.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          146,
+          35,
+          200,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_054.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          46,
+          95,
+          218,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_055.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          136,
+          116,
+          146,
+          103
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_056.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          117,
+          11,
+          157,
+          166
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_057.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          37,
+          31,
+          162,
+          162
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_058.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          141,
+          90,
+          135,
+          183
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_059.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          87,
+          59,
+          245,
+          119
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_060.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          112,
+          145,
+          122,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_061.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          141,
+          82,
+          219,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_062.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          77,
+          97,
+          185,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_063.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          33,
+          27,
+          114,
+          208
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_064.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          88,
+          16,
+          244,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_065.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          12,
+          111,
+          126,
+          101
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_066.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          147,
+          147,
+          231,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_067.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          78,
+          123,
+          132,
+          128
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_068.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          12,
+          51,
+          168,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_069.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          21,
+          143,
+          198,
+          229
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_070.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          109,
+          87,
+          116,
+          184
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_071.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          37,
+          107,
+          164,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_072.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          115,
+          105,
+          221,
+          218
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_073.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          149,
+          68,
+          176,
+          152
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_074.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          23,
+          12,
+          156,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_075.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          56,
+          18,
+          195,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_076.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          47,
+          61,
+          223,
+          199
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_077.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          97,
+          75,
+          107,
+          166
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_078.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          49,
+          10,
+          109,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_079.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          24,
+          72,
+          205,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_080.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          88,
+          89,
+          119,
+          146
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_081.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          30,
+          23,
+          126,
+          221
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_082.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          10,
+          75,
+          218,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_083.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          67,
+          30,
+          226,
+          205
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_084.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          35,
+          89,
+          244,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_085.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          102,
+          82,
+          245,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_086.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          92,
+          124,
+          195,
+          109
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_087.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          108,
+          118,
+          199,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_088.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          58,
+          129,
+          225,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_089.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          63,
+          75,
+          138,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_090.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          18,
+          16,
+          185,
+          187
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_091.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          134,
+          52,
+          231,
+          214
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_092.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          36,
+          82,
+          219,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_093.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          121,
+          99,
+          226,
+          231
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_094.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          78,
+          16,
+          234,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_095.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          70,
+          22,
+          199,
+          211
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_096.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          147,
+          88,
+          209,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_097.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          35,
+          79,
+          200,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_098.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          56,
+          61,
+          183,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_099.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          47,
+          56,
+          108,
+          204
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_100.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          11,
+          34,
+          205,
+          150
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_101.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          34,
+          121,
+          146,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_102.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          16,
+          56,
+          182,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_103.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          13,
+          93,
+          145,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_104.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          118,
+          25,
+          199,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_105.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          97,
+          115,
+          135,
+          234
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_106.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          134,
+          81,
+          194,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_107.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          26,
+          50,
+          154,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_108.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          56,
+          78,
+          207,
+          163
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_109.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          145,
+          88,
+          231,
+          109
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_110.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          91,
+          37,
+          103,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_111.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          135,
+          61,
+          165,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_112.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          146,
+          79,
+          157,
+          192
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_113.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          102,
+          147,
+          214,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_114.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          71,
+          118,
+          140,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_115.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          47,
+          149,
+          223,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_116.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          144,
+          62,
+          189,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_117.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          130,
+          85,
+          150,
+          146
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_118.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          102,
+          124,
+          225,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_119.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          116,
+          52,
+          222,
+          156
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_120.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          106,
+          88,
+          222,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_121.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          108,
+          20,
+          144,
+          204
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_122.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          72,
+          133,
+          128,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_123.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          130,
+          72,
+          131,
+          215
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_124.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          140,
+          67,
+          185,
+          218
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_125.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          54,
+          122,
+          133,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_126.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          118,
+          66,
+          217,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_127.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          36,
+          66,
+          210,
+          161
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_128.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          19,
+          40,
+          140,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_129.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          38,
+          46,
+          194,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_130.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          106,
+          135,
+          118,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_131.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          125,
+          143,
+          249,
+          241
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_132.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          107,
+          63,
+          227,
+          224
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_133.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          105,
+          37,
+          203,
+          207
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_134.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          29,
+          88,
+          223,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_135.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          108,
+          144,
+          149,
+          180
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_136.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          24,
+          28,
+          181,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_137.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          96,
+          15,
+          206,
+          119
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_138.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          85,
+          132,
+          105,
+          227
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_139.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          81,
+          75,
+          183,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_140.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          91,
+          82,
+          183,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_141.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          128,
+          31,
+          102,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_142.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          44,
+          66,
+          217,
+          218
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_143.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          118,
+          36,
+          116,
+          177
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_144.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          128,
+          36,
+          142,
+          213
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_145.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          125,
+          34,
+          207,
+          236
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_146.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          71,
+          62,
+          232,
+          241
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_147.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          149,
+          83,
+          197,
+          175
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_148.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          83,
+          87,
+          179,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_149.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          89,
+          131,
+          134,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_150.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          111,
+          105,
+          160,
+          209
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_151.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          30,
+          19,
+          141,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_152.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          148,
+          127,
+          207,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_153.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          35,
+          129,
+          101,
+          119
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_154.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          39,
+          142,
+          135,
+          105
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_155.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          59,
+          149,
+          123,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_156.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          118,
+          13,
+          138,
+          169
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_157.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          129,
+          91,
+          160,
+          176
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_158.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          72,
+          86,
+          164,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_159.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          24,
+          17,
+          189,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_160.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          21,
+          92,
+          123,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_161.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          20,
+          44,
+          158,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_162.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          24,
+          31,
+          130,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_163.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          27,
+          26,
+          207,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_164.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          138,
+          145,
+          220,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_165.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          144,
+          73,
+          249,
+          181
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_166.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          72,
+          63,
+          208,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_167.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          60,
+          139,
+          237,
+          116
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_168.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          52,
+          125,
+          215,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_169.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          24,
+          35,
+          226,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_170.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          40,
+          136,
+          210,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_171.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          145,
+          23,
+          133,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_172.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          128,
+          143,
+          147,
+          212
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_173.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          69,
+          88,
+          243,
+          249
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_174.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          56,
+          75,
+          163,
+          186
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_175.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          102,
+          137,
+          136,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_176.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          107,
+          21,
+          211,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_177.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          25,
+          100,
+          171,
+          119
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_178.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          64,
+          101,
+          101,
+          196
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_179.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          148,
+          26,
+          114,
+          189
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_180.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          24,
+          120,
+          224,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_181.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          133,
+          59,
+          232,
+          171
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_182.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          59,
+          140,
+          104,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_183.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          143,
+          92,
+          109,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_184.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          58,
+          63,
+          137,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_185.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          34,
+          50,
+          133,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_186.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          132,
+          72,
+          228,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_187.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          87,
+          144,
+          152,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_188.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          27,
+          142,
+          231,
+          212
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_189.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          76,
+          120,
+          142,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_190.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          122,
+          134,
+          106,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_191.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          63,
+          20,
+          222,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_192.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          16,
+          74,
+          230,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_193.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          66,
+          102,
+          115,
+          109
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_194.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          81,
+          121,
+          225,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_195.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          117,
+          120,
+          148,
+          231
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_196.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          114,
+          31,
+          134,
+          202
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_197.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          105,
+          108,
+          168,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_198.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          30,
+          64,
+          142,
+          224
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_199.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          26,
+          93,
+          191,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_200.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          16,
+          104,
+          166,
+          146
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_201.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          32,
+          118,
+          200,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_202.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          22,
+          100,
+          195,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_203.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          44,
+          18,
+          137,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_204.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          75,
+          79,
+          100,
+          151
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_205.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          48,
+          127,
+          222,
+          104
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_206.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          96,
+          134,
+          168,
+          151
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_207.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          83,
+          75,
+          191,
+          227
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_208.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          51,
+          139,
+          141,
+          226
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_209.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          38,
+          142,
+          124,
+          172
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_210.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          107,
+          36,
+          219,
+          238
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_211.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          99,
+          31,
+          169,
+          107
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_212.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          67,
+          107,
+          137,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_213.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          54,
+          104,
+          216,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_214.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          132,
+          143,
+          199,
+          149
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_215.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          121,
+          137,
+          124,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_216.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          54,
+          78,
+          126,
+          121
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_217.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          100,
+          28,
+          187,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_218.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          67,
+          138,
+          102,
+          232
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_219.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          81,
+          70,
+          188,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_220.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          135,
+          66,
+          148,
+          111
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_221.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          52,
+          140,
+          117,
+          229
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_222.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          22,
+          144,
+          191,
+          231
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_223.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          88,
+          33,
+          240,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_224.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          65,
+          81,
+          214,
+          211
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_225.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          101,
+          116,
+          112,
+          103
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_226.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          90,
+          19,
+          198,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_227.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          58,
+          111,
+          190,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_228.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          12,
+          59,
+          167,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_229.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          68,
+          21,
+          189,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_230.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          56,
+          77,
+          196,
+          175
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_231.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          20,
+          89,
+          240,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_232.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          93,
+          25,
+          226,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_233.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          31,
+          24,
+          175,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_234.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          56,
+          81,
+          240,
+          207
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_235.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          59,
+          60,
+          236,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_236.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          59,
+          116,
+          239,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_237.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          120,
+          107,
+          147,
+          151
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_238.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          60,
+          128,
+          215,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_239.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          15,
+          13,
+          135,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_240.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          135,
+          130,
+          155,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_241.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          126,
+          143,
+          198,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_242.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          53,
+          82,
+          244,
+          224
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_243.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          112,
+          23,
+          137,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_244.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          64,
+          90,
+          190,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_245.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          18,
+          147,
+          210,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_246.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          124,
+          59,
+          233,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_247.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          97,
+          77,
+          112,
+          149
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_248.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          141,
+          26,
+          100,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_249.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          68,
+          83,
+          102,
+          227
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_250.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          64,
+          111,
+          249,
+          188
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_251.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          103,
+          82,
+          190,
+          227
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_252.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          106,
+          148,
+          124,
+          150
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_253.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          111,
+          23,
+          244,
+          191
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_254.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          111,
+          107,
+          121,
+          172
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_255.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          12,
+          95,
+          202,
+          117
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_256.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          66,
+          87,
+          246,
+          105
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_257.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          28,
+          14,
+          205,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_258.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          146,
+          70,
+          177,
+          183
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_259.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          139,
+          77,
+          155,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_260.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          77,
+          131,
+          170,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_261.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          132,
+          50,
+          202,
+          202
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_262.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          59,
+          30,
+          139,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_263.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          105,
+          135,
+          141,
+          196
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_264.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          46,
+          25,
+          115,
+          220
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_265.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          78,
+          92,
+          110,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_266.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          46,
+          109,
+          213,
+          102
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_267.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          68,
+          31,
+          236,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_268.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          102,
+          41,
+          235,
+          182
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_269.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          23,
+          131,
+          167,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_270.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          33,
+          87,
+          177,
+          102
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_271.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          93,
+          137,
+          193,
+          208
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_272.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          126,
+          103,
+          155,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_273.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          83,
+          92,
+          245,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_274.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          96,
+          55,
+          215,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_275.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          23,
+          39,
+          151,
+          149
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_276.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          100,
+          122,
+          175,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_277.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          125,
+          15,
+          196,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_278.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          23,
+          126,
+          133,
+          201
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_279.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          123,
+          108,
+          119,
+          187
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_280.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          76,
+          146,
+          184,
+          157
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_281.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          31,
+          104,
+          172,
+          164
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_282.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          124,
+          71,
+          115,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_283.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          15,
+          142,
+          199,
+          132
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_284.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          70,
+          140,
+          157,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_285.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          94,
+          74,
+          225,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_286.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          142,
+          61,
+          184,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_287.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          99,
+          21,
+          167,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_288.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          81,
+          136,
+          140,
+          204
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_289.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          22,
+          117,
+          117,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_290.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          125,
+          35,
+          206,
+          171
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_291.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          87,
+          128,
+          124,
+          111
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_292.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          66,
+          69,
+          153,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_293.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          12,
+          37,
+          205,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_294.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          11,
+          144,
+          105,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_295.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          126,
+          104,
+          111,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_296.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          145,
+          21,
+          224,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_297.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          122,
+          135,
+          227,
+          224
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_298.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          113,
+          92,
+          224,
+          106
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_299.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          34,
+          55,
+          172,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_300.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          13,
+          63,
+          123,
+          128
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_301.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          40,
+          99,
+          213,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_302.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          55,
+          59,
+          214,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_303.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          135,
+          115,
+          129,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_304.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          25,
+          94,
+          123,
+          119
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_305.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          37,
+          57,
+          242,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_306.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          116,
+          43,
+          187,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_307.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          51,
+          21,
+          241,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_308.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          79,
+          65,
+          127,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_309.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          141,
+          139,
+          223,
+          213
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_310.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          52,
+          120,
+          153,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_311.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          89,
+          70,
+          144,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_312.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          108,
+          17,
+          168,
+          188
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_313.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          68,
+          80,
+          209,
+          158
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_314.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          91,
+          89,
+          177,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_315.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          141,
+          20,
+          117,
+          182
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_316.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          84,
+          104,
+          189,
+          170
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_317.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          71,
+          102,
+          145,
+          182
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_318.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          93,
+          88,
+          135,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_319.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          127,
+          133,
+          187,
+          229
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_320.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          83,
+          122,
+          102,
+          221
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_321.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          31,
+          136,
+          163,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_322.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          58,
+          121,
+          150,
+          203
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_323.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          17,
+          49,
+          155,
+          187
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_324.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          64,
+          16,
+          138,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_325.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          99,
+          83,
+          127,
+          213
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_326.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          13,
+          74,
+          161,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_327.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          139,
+          38,
+          149,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_328.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          23,
+          132,
+          156,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_329.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          138,
+          21,
+          231,
+          158
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_330.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          27,
+          80,
+          150,
+          197
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_331.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          64,
+          74,
+          199,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_332.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          118,
+          45,
+          242,
+          164
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_333.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          78,
+          142,
+          160,
+          216
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_334.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          52,
+          34,
+          198,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_335.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          87,
+          54,
+          204,
+          227
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_336.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          10,
+          10,
+          183,
+          229
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_337.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          59,
+          74,
+          192,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_338.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          24,
+          89,
+          130,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_339.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          20,
+          123,
+          132,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_340.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          95,
+          140,
+          195,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_341.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          10,
+          128,
+          105,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_342.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          59,
+          98,
+          179,
+          149
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_343.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          11,
+          131,
+          204,
+          161
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_344.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          43,
+          46,
+          233,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_345.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          39,
+          59,
+          185,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_346.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          125,
+          143,
+          197,
+          150
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_347.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          11,
+          110,
+          215,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_348.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          132,
+          29,
+          230,
+          248
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_349.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          77,
+          72,
+          185,
+          227
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_350.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          96,
+          51,
+          200,
+          146
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_351.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          22,
+          90,
+          204,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_352.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          14,
+          48,
+          247,
+          201
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_353.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          135,
+          61,
+          161,
+          191
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_354.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          86,
+          81,
+          188,
+          224
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_355.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          130,
+          129,
+          204,
+          222
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_356.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          75,
+          91,
+          144,
+          212
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_357.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          44,
+          143,
+          173,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_358.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          145,
+          80,
+          142,
+          225
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_359.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          54,
+          16,
+          145,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_360.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          130,
+          42,
+          150,
+          117
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_361.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          117,
+          33,
+          242,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_362.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          94,
+          29,
+          122,
+          186
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_363.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          142,
+          99,
+          129,
+          204
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_364.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          23,
+          46,
+          149,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_365.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          25,
+          106,
+          236,
+          241
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_366.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          144,
+          114,
+          125,
+          181
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_367.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          101,
+          103,
+          155,
+          196
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_368.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          39,
+          121,
+          182,
+          223
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_369.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          41,
+          86,
+          190,
+          238
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_370.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          42,
+          97,
+          102,
+          167
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_371.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          26,
+          149,
+          211,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_372.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          79,
+          40,
+          114,
+          214
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_373.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          101,
+          83,
+          225,
+          125
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_374.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          83,
+          87,
+          191,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_375.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          88,
+          37,
+          144,
+          193
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_376.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          28,
+          144,
+          241,
+          238
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_377.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          130,
+          67,
+          238,
+          231
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_378.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          93,
+          129,
+          231,
+          220
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_379.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          149,
+          79,
+          160,
+          192
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_380.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          76,
+          52,
+          231,
+          234
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_381.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          132,
+          101,
+          131,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_382.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          55,
+          82,
+          175,
+          198
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_383.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          97,
+          107,
+          118,
+          185
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_384.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          72,
+          64,
+          227,
+          246
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_385.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          93,
+          87,
+          246,
+          175
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_386.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          31,
+          12,
+          147,
+          220
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_387.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          130,
+          143,
+          135,
+          202
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_388.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          80,
+          102,
+          185,
+          169
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_389.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          72,
+          74,
+          216,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_390.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          142,
+          26,
+          243,
+          177
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_391.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          141,
+          37,
+          210,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_392.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          88,
+          54,
+          197,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_393.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          50,
+          82,
+          197,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_394.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          139,
+          76,
+          114,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_395.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          26,
+          139,
+          138,
+          188
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_396.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          70,
+          83,
+          114,
+          106
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_397.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          72,
+          67,
+          106,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_398.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          101,
+          122,
+          161,
+          221
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_399.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          72,
+          81,
+          146,
+          199
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_400.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          140,
+          43,
+          233,
+          132
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_401.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          109,
+          15,
+          239,
+          171
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_402.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          56,
+          116,
+          201,
+          227
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_403.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          82,
+          97,
+          185,
+          202
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_404.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          143,
+          103,
+          127,
+          247
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_405.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          109,
+          137,
+          242,
+          188
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_406.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          67,
+          32,
+          222,
+          223
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_407.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          46,
+          95,
+          141,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_408.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          93,
+          105,
+          121,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_409.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          70,
+          143,
+          140,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_410.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          15,
+          76,
+          211,
+          165
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_411.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          69,
+          69,
+          167,
+          205
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_412.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          56,
+          143,
+          147,
+          152
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_413.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          48,
+          19,
+          141,
+          168
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_414.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          82,
+          148,
+          235,
+          240
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_415.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          148,
+          56,
+          145,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_416.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          10,
+          18,
+          199,
+          159
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_417.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          67,
+          10,
+          139,
+          216
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_418.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          18,
+          88,
+          163,
+          101
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_419.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          131,
+          89,
+          228,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_420.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          33,
+          71,
+          197,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_421.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          18,
+          59,
+          112,
+          162
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_422.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          78,
+          103,
+          186,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_423.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          56,
+          49,
+          182,
+          169
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_424.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          147,
+          20,
+          144,
+          102
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_425.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          105,
+          87,
+          212,
+          226
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_426.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          138,
+          73,
+          170,
+          169
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_427.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          27,
+          94,
+          152,
+          162
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_428.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          92,
+          36,
+          119,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_429.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          89,
+          89,
+          144,
+          153
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_430.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          139,
+          84,
+          136,
+          224
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_431.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          133,
+          115,
+          241,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_432.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          107,
+          22,
+          113,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_433.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          24,
+          127,
+          165,
+          107
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_434.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          90,
+          106,
+          159,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_435.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          131,
+          15,
+          111,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_436.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          30,
+          16,
+          236,
+          171
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_437.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          27,
+          83,
+          120,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_438.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          85,
+          93,
+          124,
+          239
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_439.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          89,
+          36,
+          206,
+          164
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_440.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          148,
+          96,
+          208,
+          152
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_441.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          141,
+          102,
+          138,
+          179
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_442.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          24,
+          51,
+          205,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_443.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          83,
+          128,
+          121,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_444.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          131,
+          13,
+          178,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_445.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          127,
+          22,
+          167,
+          169
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_446.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          119,
+          148,
+          184,
+          164
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_447.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          45,
+          88,
+          188,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_448.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          118,
+          19,
+          177,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_449.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          47,
+          142,
+          115,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_450.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          87,
+          143,
+          231,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_451.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          118,
+          15,
+          168,
+          208
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_452.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          107,
+          45,
+          169,
+          210
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_453.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          75,
+          144,
+          114,
+          190
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_454.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          116,
+          52,
+          135,
+          237
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_455.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          89,
+          34,
+          224,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_456.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          70,
+          12,
+          236,
+          209
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_457.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          17,
+          41,
+          194,
+          238
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_458.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          37,
+          68,
+          193,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_459.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          58,
+          20,
+          238,
+          189
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_460.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          31,
+          56,
+          118,
+          232
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_461.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          89,
+          27,
+          173,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_462.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          36,
+          148,
+          244,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_463.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          79,
+          56,
+          152,
+          199
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_464.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          30,
+          115,
+          208,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_465.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          138,
+          111,
+          237,
+          233
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_466.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          109,
+          123,
+          185,
+          244
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_467.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          123,
+          19,
+          163,
+          219
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_468.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          28,
+          96,
+          180,
+          203
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_469.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          74,
+          92,
+          118,
+          160
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_470.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          35,
+          132,
+          146,
+          174
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_471.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          146,
+          14,
+          241,
+          230
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_472.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          113,
+          45,
+          155,
+          177
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_473.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          41,
+          109,
+          223,
+          155
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_474.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          105,
+          115,
+          191,
+          218
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_475.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          127,
+          43,
+          147,
+          189
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_476.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          45,
+          137,
+          236,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_477.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          139,
+          86,
+          208,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_478.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          139,
+          146,
+          201,
+          218
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_479.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          53,
+          30,
+          194,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_480.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          36,
+          81,
+          138,
+          200
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_481.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          121,
+          82,
+          215,
+          193
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_482.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          27,
+          22,
+          151,
+          245
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_483.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          61,
+          123,
+          229,
+          238
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_484.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          92,
+          97,
+          105,
+          121
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_485.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          100,
+          71,
+          167,
+          220
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_486.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          99,
+          43,
+          243,
+          212
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_487.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          42,
+          109,
+          139,
+          244
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_488.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          13,
+          22,
+          175,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_489.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          104,
+          108,
+          160,
+          223
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_490.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "dog",
+        "bbox": [
+          148,
+          127,
+          100,
+          189
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_491.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cat",
+        "bbox": [
+          143,
+          54,
+          174,
+          222
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_492.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bird",
+        "bbox": [
+          52,
+          17,
+          117,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_493.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "horse",
+        "bbox": [
+          133,
+          140,
+          170,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_494.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "sheep",
+        "bbox": [
+          46,
+          95,
+          211,
+          228
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_495.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "cow",
+        "bbox": [
+          111,
+          36,
+          154,
+          132
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_496.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "elephant",
+        "bbox": [
+          107,
+          27,
+          112,
+          203
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_497.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "bear",
+        "bbox": [
+          50,
+          112,
+          111,
+          224
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_498.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "zebra",
+        "bbox": [
+          47,
+          55,
+          211,
+          235
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "synthetic_image_499.jpg",
+    "width": 416,
+    "height": 416,
+    "objects": [
+      {
+        "class": "giraffe",
+        "bbox": [
+          126,
+          105,
+          157,
+          237
+        ]
+      }
+    ]
+  }
+]
