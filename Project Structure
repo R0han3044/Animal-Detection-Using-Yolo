@@ -1,0 +1,9 @@
+Animal-Detection-Using-Yolo/
+│
+├── app.py                  # Streamlit web app
+├── detect.py               # YOLO detection script
+├── checkpoints/
+│   └── best_model.pth      # (download separately)
+├── utils/                  # Helper functions
+├── requirements.txt
+└── README.md
